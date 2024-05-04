@@ -70,9 +70,8 @@ int main() {
     }
     exit(EXIT_SUCCESS);
 }
-````
 
-````c
+
 //shmry2.c
 
 #include<unistd.h> 
@@ -124,6 +123,10 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ````
 
 ## OUTPUT
+![image](https://github.com/RoopakCS/Linux-IPC-Shared-memory/assets/139228922/bc934830-345d-4bda-baeb-317b20b35fec)
+
+![image](https://github.com/RoopakCS/Linux-IPC-Shared-memory/assets/139228922/4dc5f391-b077-4cc9-a721-9238fe5a553b)
+
 
 
 # RESULT:
