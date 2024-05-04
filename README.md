@@ -36,6 +36,9 @@ struct shared_use_st{
     char some_text[TEXT_SZ];
 };
 
+
+//shmry2.c
+
 int main() {
     int running =1;
     void *shared_memory = (void *)0; 
