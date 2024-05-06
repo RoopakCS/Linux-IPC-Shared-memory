@@ -1,6 +1,9 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
+# Name: Roopak C S
+# Register Number: 212223220088
+
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
